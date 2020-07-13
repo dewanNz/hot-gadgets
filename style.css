@@ -1,0 +1,81 @@
+.container{
+    margin-bottom: 80px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.carousel-indicators li {
+    background-color: #c9c5c5;
+    height: 10px;
+    width: 15px;
+    border-radius: 5px;
+    border: none;
+}
+
+.carousel-indicators .active {
+    background-image: linear-gradient(to right, #faa54b, #f0c30e);
+    width: 50px;
+}
+
+.buy-now-buttton{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.phone, .pc{
+    margin-bottom: 25px;
+}
+#see-all{
+    color:#ff9d00;
+}
+a:link {
+    text-decoration: none;
+  }
+
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 0 15px lightgrey;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+
+.cat-bag, .cat-perfume, .cat-shoe {
+    box-shadow: 5px 5px 20px lightgray;
+}
+.cat-bag {
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.cat-perfume{
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+}
+
+.cat-shoe {
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.underline{
+    background-image: linear-gradient(to right, #ffc41c 0%, #ff9c35 80%);
+    margin-left: 8px;
+    border-radius: 5px;
+    height: 8px;
+    width: 100px;
+    margin-bottom: 50px;
+      
+}
